@@ -9,7 +9,7 @@
 
     <b-row>
       <b-col class="action-container text-center">
-        <h4>Buy a random POBA</h4>
+        <h4>Create a POBA TAG</h4>
         <img :src="unknownPOBAImg" class="unknown-POBA">
         <b-button type="button" v-on:click="buyPOBA()">Buy</b-button>
         <p>Each POBA costs 0.02 Ether</p>
