@@ -19,7 +19,7 @@
         <h3 v-if="!isLoading">or</h3>
       </b-col>
       <b-col class="action-container">
-        <h4>POBA TAG OPTIONS</h4>
+        <h4>CUSTOM POBA TAG</h4>
         <b-form>
           <b-form-group id="Order"
                         label="Order ID:"
